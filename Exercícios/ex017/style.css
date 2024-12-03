@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+body{
+    backg
+    font-family: Arial, Helvetica, sans-serif;
+    /*
+    Medidas absolutas
+    cm, mm, in, px, pt, pc
+    
+    Medias Relativas
+    em, ex, rem, vm, vh, %
+    16px geralmente = 1em
+    As medidas recomendadas são "px e em"
+    */
+    font-size: 1em;
+}
+
+h1{
+    color
+
+}
